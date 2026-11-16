@@ -1,7 +1,7 @@
+# [Product name]
+
 <!-- This file is your Product Page. Replace everything in [brackets] with your own words.
      Your page updates about a minute after you commit. Never put an API key here: this page is public. -->
-
-# [Product name]
 
 [One sentence: who it's for, and the job it does for them.]
 
