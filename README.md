@@ -15,6 +15,17 @@
 5. **Log your checks and testers in [`TEST_LOG.md`](./TEST_LOG.md) as you go,** not the night before.
 6. **Keep your Product Page current** in [`docs/index.md`](./docs/index.md). It's plain text: replace everything in [brackets].
 
+## Make your commits count
+
+Everyone on the team commits to this repo on at least two different days every week. It's part of your own grade. Git only knows a commit is yours if it knows who you are, so run this once in your cube or on your laptop, with your own name and the email on your GitHub account:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+```
+
+If GitHub keeps your email private, use the noreply address it shows under Settings → Emails. Commits you make on GitHub's website count automatically.
+
 ## The easiest way to edit
 
 You don't need to install anything. On GitHub, open a file, press the pencil to edit it, then press **Commit changes**. Your Product Page updates about a minute later.
