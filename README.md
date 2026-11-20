@@ -10,8 +10,8 @@
 
 1. **Turn on your Product Page:** Settings → Pages → Deploy from a branch → main → /docs → Save. About a minute later it's live at the address above.
 2. **Add your teammates:** Settings → Collaborators and teams → Add people, with the Write role.
-3. **Fill in [`INTENT.md`](./INTENT.md) before Demo Day on November 24:** who it's for, their workflow today, and your riskiest assumption.
-4. **Build the smallest version that runs on a real case,** and bring it to Demo Day.
+3. **Start [`INTENT.md`](./INTENT.md) during Week 5 (November 24):** who it's for, their workflow today, and your riskiest assumption.
+4. **Build the smallest version that runs on a real case,** and start testing it early.
 5. **Log your checks and testers in [`TEST_LOG.md`](./TEST_LOG.md) as you go,** not the night before.
 6. **Keep your Product Page current** in [`docs/index.md`](./docs/index.md). It's plain text: replace everything in [brackets].
 
