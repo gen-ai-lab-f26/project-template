@@ -63,9 +63,9 @@ Baseline: [doing it by hand, or a plain AI chat]. The full log is in [TEST_LOG.m
 
 ## Build log
 
-### Demo Day · November 24
+### Ideation & build studio · November 24
 
-[What you showed, what classmates said, and the one change you chose.]
+[Your initial idea, repo setup, what you started building, and what you learned in class.]
 
 ### Build studio · December 1
 
