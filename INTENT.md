@@ -47,4 +47,4 @@ Keep it to one page. Write it first, then update it when testing changes your mi
 
 ## 9. Riskiest assumption
 
-*The one thing that sinks the product if it's wrong. Bring it to Demo Day.*
+*The one thing that sinks the product if it's wrong. Test it first.*
